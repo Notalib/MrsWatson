@@ -36,7 +36,7 @@ nbproject/*
 *.cbp
 
 # Non-redistributable third-party
-vendor/vstsdk2.4/*
+# vendor/vstsdk2.4/*
 
 # Vim helpers
 tags
