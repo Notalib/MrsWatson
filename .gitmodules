@@ -1,3 +1,6 @@
 [submodule "vendor/AudioTestData"]
 	path = vendor/AudioTestData
 	url = git://github.com/teragonaudio/AudioTestData.git
+[submodule "vendor/vstsdk2.4"]
+	path = vendor/vstsdk2.4
+	url = ../vstsdk.git
